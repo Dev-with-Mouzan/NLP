@@ -129,7 +129,7 @@ Required Python packages:
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dev-with-Mouzan/NLP.git
    cd NLP
    ```
 
@@ -290,11 +290,6 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
